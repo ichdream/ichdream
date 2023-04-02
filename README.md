@@ -18,6 +18,13 @@
 
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-%23E52630?style=flat&logo=ai&logoColor=ffffff)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-%23FF6F00?style=flat&logo=machinelearning&logoColor=ffffff)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-%2302569B?style=flat&logo=deeplearning&logoColor=ffffff)
+![Big Data](https://img.shields.io/badge/-Big%20Data-%23129A5E?style=flat&logo=bigdata&logoColor=ffffff)
+![High Performance Computing](https://img.shields.io/badge/-High%20Performance%20Computing-%23E94626?style=flat&logo=hpc&logoColor=ffffff)
+![Linux Kernel](https://img.shields.io/badge/-Linux%20Kernel-%23FCC624?style=flat&logo=linux&logoColor=000000)
+![U-Boot](https://img.shields.io/badge/-U--Boot-%23007EC6?style=flat&logo=u-boot&logoColor=ffffff)
 ![Assembly](https://img.shields.io/badge/-Assembly-%236DB33F?style=flat&logo=assemblyscript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
