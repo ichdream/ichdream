@@ -15,14 +15,15 @@
 ---
 
 **Languages and Tools**
-
-![C](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=cpp)
-![Assembly](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=assembly&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
-![Python](https://img.shields.io/badge/-React-%2320232A?logoColor=61DAFB&style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-Sass-%23CB6498?style=flat&logo=sql&logoColor=ffffff)
-![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
+![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![Assembly](https://img.shields.io/badge/-Assembly-%236DB33F?style=flat&logo=assemblyscript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-%23E2271E?style=flat&logo=sql&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+
 
 ---
 ![ichdream's github stats](https://github-readme-stats.vercel.app/api?username=ichdream&theme=gruvbox&show_icons=true)
