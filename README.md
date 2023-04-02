@@ -5,6 +5,7 @@
 - 😄技术涉猎广泛，对很多技术都有浓厚的兴趣，除了工作中涉及的技术栈外，还深入C++模版编程，范型编程，C++网络编程，高性能编程，Linux内核，计算机体系结构等
 - 欢迎找我合作，技术交流等
 
+![ichdream's github stats](https://github-readme-stats.vercel.app/api?username=ichdream&theme=gruvbox&show_icons=true)
 
 <!--
 **ichdream/ichdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
